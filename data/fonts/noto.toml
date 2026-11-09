@@ -1,0 +1,15 @@
+# Noto Sans SC（思源黑体）字体主题，通过 Google Fonts 加载。
+
+# Font style metadata
+name = "NotoSansSC"
+
+# Optional Google font URL
+# google_fonts = "family=Noto+Sans+SC:wght@400;500;700&family=Noto+Sans+Mono:wght@400;700"
+# 通过 <link> 标签加载  https://cdn.jsdelivr.net/fontsource/css/noto-sans-sc@latest/400.css
+google_fonts = ""
+
+# Font families
+heading_font = "Noto Sans SC"
+body_font = "Noto Sans SC"
+nav_font = "Noto Sans SC"
+mono_font = "Noto Sans Mono"
