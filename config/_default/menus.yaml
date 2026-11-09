@@ -12,11 +12,11 @@ main:
   #   url: '#about'
   #   weight: 20
 
-  # - name: 研究领域
-  #   url: '#about'
-  #   weight: 30
+  - name: 研究领域
+    url: 'research'
+    weight: 30
 
-  - name: 代表论文
+  - name: 代表性论文
     url: 'publications'
     weight: 40
 
