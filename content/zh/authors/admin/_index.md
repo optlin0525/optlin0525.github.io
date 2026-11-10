@@ -53,8 +53,14 @@ email: "jialinli@ucas.ac.cn"
 social:
 - icon: envelope
   icon_pack: fas
+  link_text: Email
   link: "mailto: jialinli@ucas.ac.cn"
   
+- icon: researchgate
+  icon_pack: fab
+  link_text: Scholar profile
+  link: https://www.researchgate.net/profile/Jialin_Li55?ev=prf_overview
+
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://x.com/xxxx

@@ -80,10 +80,15 @@
           {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
         {{ end }}
         <li>
-          <a href="{{ $link | safeURL }}"
+          <a href="{{ $link | safeURL }}" class="s-a-link"
              title="{{.title}}"
              {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
-            <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+            {{/*  <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>  */}}
+            {{ if .link_text }}
+                <span> <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} "></i> {{ .link_text | markdownify | emojify}}</span>
+            {{ else }}
+                <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+            {{ end }}
           </a>
         </li>
         {{ end }}
