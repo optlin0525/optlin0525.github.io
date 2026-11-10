@@ -96,6 +96,10 @@ $text-primary-color: #3f51b5;
       object-fit: cover;
     }
   }
+  .h-list-img {
+    border: 1px solid #e5e7eb;
+    margin: 0 0 2rem 0;
+  }
 
   // 偶数行
   .research-item:nth-of-type(even) {

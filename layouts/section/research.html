@@ -12,6 +12,31 @@
   <div class="research-list-wrap">
     {{ range $index, $item := .Params.research_areas }}
 
+      <div class="research-item    ">
+
+        {{if $item.title }}<div class="r-title">{{add $index 1}}. {{$item.title | markdownify}}</div> {{ end }}
+
+        <div class=" h-list-img ">
+            <img alt="" src="{{ $item.image | relURL }}" />
+        </div>
+
+        <div class="r-content">{{$item.desc | markdownify}}</div>
+
+
+      </div>
+
+    {{ end }}
+  </div>
+
+
+
+
+
+
+{{/*
+  <div class="research-list-wrap">
+    {{ range $index, $item := .Params.research_areas }}
+
       <div class="research-item r-index{{$index}} row  ">
 
         <div class="col-12 col-md-6 r-img">
@@ -29,7 +54,7 @@
       </div>
 
     {{ end }}
-  </div>
+  </div>  */}}
 
 
 
