@@ -1,24 +1,27 @@
 ---
 title: 研究领域
 
-a_research_areas:
-  - title: ""
+research_areas:
+  - title: "高灵敏光电探测器新机理、新结构及新应用研究"
     image: "images/research/p1.jpg"
     desc: |
-      My research focuses on the genetic and molecular epidemiology of Alzheimer’s disease and related dementias. During my PhD at the University of Wisconsin–Madison, mentored by Dr. Corinne Engelman, I studied how genetic susceptibility interacts with environmental and lifestyle factors to influence cognitive aging and the preclinical stages of Alzheimer’s disease. My work examined pathway-specific polygenic risk scores, APOE and non-APOE genetic risk, gene–environment interactions, longitudinal cognitive trajectories, and Alzheimer’s disease–related biomarkers.
+      光电探测涉及从光吸收、载流子产生到弛豫动力学与电流收集的多环节物理过程，其机理认知与器件结构设计直接决定探测性能与系统集成能力。然而，传统光电探测研究往往偏重单一环节或单一结构，对低维材料中光生载流子的产生、输运与收集全过程缺乏贯通性认识，新型异质结构从机理验证走向小型化系统应用仍面临诸多挑战。本研究方向围绕新型光电探测机理与新结构应用展开，利用光电流谱、量子几何探针、自旋探测、超快光谱以及微区光电流mapping等手段，系统揭示光吸收、电流产生、弛豫动力学和电流收集各阶段的物理机制；在此基础上构建互补势垒等新型光电探测器结构，调控载流子输运，提升光电转换能力。进一步推动新结构走向系统集成，研制小型化NDIR气体检测系统，展现宽带红外探测芯片在便携气体传感与智能感知中的应用潜力，为新型光电探测机理向实用化器件与系统转化提供技术支撑。
+
       
-  - title: ""
+  - title: "智能光电感知芯片研究 "
     image: "images/research/p2.jpg"
     desc: |
-      As a Postdoctoral Research Scientist at Columbia University Irving Medical Center, mentored by Dr. Richard Mayeux, my research has expanded to large-scale, multi-cohort studies across diverse and multi-ancestry populations. I integrate genetic and genomic data with plasma and CSF biomarkers, including p-tau217, to investigate Alzheimer’s disease risk, disease progression, and cognitive impairment. My recent work has examined the performance of polygenic risk scores across ancestry groups, genetic contributors to Alzheimer’s disease biomarkers, and how genetic susceptibility and molecular biomarkers jointly influence the timing of cognitive impairment.
+      宽带光电探测器能够捕获0.75 μm以上红外波段的不可见信息，在光谱分析、热成像、遥感、辅助驾驶、工业检测、光通信、安防、环境监测和国防安全等领域具有重要价值。在人工智能时代，智能光电与红外应用技术加速融合，计算光谱、人工视觉、计算与通信等方向不断涌现，对小型化、宽带化、智能化光谱感知的需求日益迫切。然而，传统红外探测与光谱获取方式仍面临系统体积大、成本高、宽带响应与片上集成难以兼顾、复杂环境下光谱信息解译能力不足等挑战。本研究方向聚焦宽带红外探测与计算光谱芯片，从材料选择、结构设计、器件制备到光谱重构算法开展全链条研究，借助器件几何结构及电场等方式调控光谱响应，突破宽带探测与片上光谱编码的关键难题，构建小型化、集成化、智能化的计算光谱芯片，为智能光电感知与红外信息技术融合发展提供器件基础和技术支撑。
+
       
-  - title: ""
+  - title: "非线性磁光电响应及输运物性研究"
     image: "images/research/p3.jpg"
     desc: |
-      My current research increasingly focuses on the biological heterogeneity of Alzheimer’s disease and related dementias. I am interested in identifying distinct genetic and molecular pathways underlying Alzheimer’s and non-Alzheimer’s dementia and integrating polygenic profiles, biomarkers, and multi-omic data to improve disease subtyping and individualized risk prediction. Across this work, I apply statistical genetics, longitudinal and survival analysis, and machine-learning approaches, with the broader goal of advancing precision approaches to the early detection and prediction of dementia.
+      二维材料凭借其丰富的对称性破缺与强关联特性，为探索光、电、磁、力交织下的新奇物理现象提供了理想平台。在智能感知技术向微型化、多功能化演进的当下，突破单一线性响应的局限，挖掘低维体系中的非线性物理机制已成为构筑下一代可重构光电器件的关键。本研究方向聚焦二维体系中的非线性磁光电响应及输运物性，致力于揭示空间色散与非中心对称结构下诱发的非线性体光伏效应，解析光生载流子在内建场作用下的微观输运规律。通过构建多维物理场交叉调控网络，实现低维材料能带结构与光电输运特性的精准调控，为开发可重构、高灵敏、宽谱段的新型智能光电器件提供底层物理支撑与技术积累，推动低维非线性光电机制向多功能集成化系统迈进。
+
 
 
 ---
 
 
-内容正在建设中， 敬请期待。
+ 
